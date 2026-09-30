@@ -65,7 +65,7 @@ A classification project analyzing whether conference and regional wins can pred
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/matin-baghshaei) · [Email](mailto:m.matinbaghshaei@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matin-baghshaei) · [Email](m.matinbaghshaei@gmail.com)
 
 ---
 
